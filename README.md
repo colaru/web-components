@@ -3,7 +3,14 @@
 
 [Code for the Medium article: Web Components — How we created a Web component with Stencil JS](https://medium.com/ionic-book/web-components-how-to-create-a-component-with-stencil-3753c20b1b12)
 
-Usage sample:
+
+## Run (when you are in the app folder)
+sudo npm install
+npm start
+
+If you get this error https://github.com/dlmanning/gulp-sass/issues/652 use this command (sudo npm i gulp-sass -ES --unsafe-perm=true)
+
+## Usage sample:
 
 ```javascript
 
